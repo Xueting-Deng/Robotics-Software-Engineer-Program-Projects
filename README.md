@@ -21,3 +21,6 @@ I combine those three projects as Home Service Robot project. This project invol
 
 ![](https://github.com/Xueting-Deng/Robotics-Software-Engineer-Program-Projects/blob/main/Home%20Service%20Robot/home%20service%20gif.gif)
 
+![1730254595893](https://github.com/user-attachments/assets/97c87c55-00d1-44b0-bc93-de9bcb3bbcf9)
+
+

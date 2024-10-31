@@ -17,10 +17,12 @@ I combine both projects here as Chase Ball Robot project. This project involves 
 
 
 ## Project 3-5
-I combine those three projects as Home Service Robot project. This project involves localization, mapping and SLAM, and path planning.
+I combine those three projects as Home Service Robot project. The aim of this project is to 
+involves localization, mapping and SLAM, and path planning.
 
 ![](https://github.com/Xueting-Deng/Robotics-Software-Engineer-Program-Projects/blob/main/Home%20Service%20Robot/home%20service%20gif.gif)
 
 ![1730254595893](https://github.com/user-attachments/assets/97c87c55-00d1-44b0-bc93-de9bcb3bbcf9)
 
+The robot has a RGB-D camera and a Hokuyo lidar
 

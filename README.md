@@ -21,7 +21,7 @@ I combine those three projects as Home Service Robot project.
 
 ![](https://github.com/Xueting-Deng/Robotics-Software-Engineer-Program-Projects/blob/main/Home%20Service%20Robot/home%20service%20gif.gif)
 
-The aim of this project is to navigate a drivable robot to pick up an object at a certain point, and then drop the object off at another drop-off point. The robot is equipped with a RGB-D camera and a Hokuyo Lidar. This project first used slam_gmapping package to create a 2d occupancy grid map. This package uses a partical highly efficient filter-based SLAM. However, without tuning the parameter well, the map I created doesn't reach the best accuracy:
+The aim of this project is to navigate a drivable robot to pick up an object at a certain point, and then drop the object off at another drop-off point. The robot is equipped with a RGB-D camera and a Hokuyo Lidar. This project first used slam_gmapping package to create a 2d occupancy grid map. This package uses a partical highly efficient filter-based SLAM as well as AMCL (Adaptive Monte Carlo Localization). However, without tuning the parameter well, the map I created doesn't reach the best accuracy:
 ![1730254595893](https://github.com/user-attachments/assets/97c87c55-00d1-44b0-bc93-de9bcb3bbcf9)
 ![1730379737762](https://github.com/user-attachments/assets/b3efaf0d-bc4e-4f15-bddd-6998b7b0d6f2)
 
